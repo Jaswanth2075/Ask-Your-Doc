@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+pandas
+openpyxl
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+google-genai
+langchain_text_splitters
+
