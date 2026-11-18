@@ -1,2 +1,3 @@
+from document_processing.text_cleaner import clean_text
 def extract_txt(file):
-    return file.read().decode("utf-8")
+    return clean_text(file.read().decode("utf-8"))
